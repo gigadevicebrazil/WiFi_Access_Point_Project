@@ -17,6 +17,8 @@ This project demonstrates:
 - HTML, CSS, and JavaScript embedded in firmware
 - HTTP GET commands to control hardware
 - RTOS task creation and execution
+
+
 Download Putty for testing:
 https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 ---
